@@ -4,7 +4,7 @@
 # Cadastro pessoa física
 ![cadastro=pf](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/88b2292e-d7dc-4396-8113-712b81fdd056)
 
-# Cadastro pessoa físca - aluno
+# Cadastro pessoa física - aluno
 ![cadastro=pf](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/69e715b5-ce87-4d1b-950a-c98be613f0fb)
 
 # Cadastro fornecedor
