@@ -1,4 +1,2 @@
 # Projeto-Integrador-Grupo-38
-Um repositório destinado para fins acadêmicos.
-
-# cadastro básico
+> Um repositório destinado para fins acadêmicos.
