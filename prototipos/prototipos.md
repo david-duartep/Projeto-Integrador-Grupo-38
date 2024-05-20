@@ -1,6 +1,9 @@
 # Cadastro básico
 ![cadastro-basico](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/5b4afc8d-a2b1-41a8-b906-1f263a672680)
 
+# Editar usuário
+![tela-edicao-usuario](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/727fe586-20aa-4fa8-b307-137626550598)
+
 # Cadastro pessoa física
 ![cadastro=pf](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/88b2292e-d7dc-4396-8113-712b81fdd056)
 
@@ -9,6 +12,15 @@
 
 # Cadastro pessoa física - professor
 ![cadastro-professor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/cb6b93f7-cb65-4757-beaf-b5cd6967ef12)
+
+# Editar professor
+![editar-professor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/41282b1e-9c30-479b-b8a9-d0bc278afe72)
+
+# Cadastro fornecedor
+![cadastro-fornecedor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/8c7b765b-4f0e-4da7-8a85-d567b05995fa)
+
+# Editar fornecedor
+![editar-fornecedor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/36863763-c37e-4128-9dee-01ce98bc8d59)
 
 # Portal do aluno - base inicial
 ![portal-aluno-base-inicial](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/082535b7-9c49-4dbc-a7d7-4ca914a02049)
@@ -34,8 +46,11 @@
 # Portal fornecedor
 ![portal-fornecedor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/03729209-0643-419b-a573-f747657152e4)
 
-# Cadastro fornecedor
-![cadastro-fornecedor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/8c7b765b-4f0e-4da7-8a85-d567b05995fa)
+# Portal adm - pedidos
+![portal-adm-pedidos](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/d219dec6-d89d-4303-bc7f-b36c2f9abd33)
 
-# Editar fornecedor
-![editar-fornecedor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/36863763-c37e-4128-9dee-01ce98bc8d59)
+# Portal adm - usuários
+![portal-adm-usuarios](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/ce7ad6c5-820e-4938-8609-b1e981a2921f)
+
+# Portal adm - cursos
+![portal-adm-cursos](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/c609f081-fe86-4773-a5b4-6afaa80702b2)
