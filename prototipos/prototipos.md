@@ -7,7 +7,7 @@
 ![cadastro=pf](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/88b2292e-d7dc-4396-8113-712b81fdd056)
 
 # Cadastro pessoa física - aluno
-> A tela de cadastro do aluno não há se diferencia da tela de cadastro de pessoa física.
+> A tela de cadastro do aluno não se diferencia da tela de cadastro de pessoa física.
 ![cadastro=pf](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/69e715b5-ce87-4d1b-950a-c98be613f0fb)
 
 # Editar usuário pessoa física
@@ -15,7 +15,7 @@
 ![tela-edicao-usuario](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/727fe586-20aa-4fa8-b307-137626550598)
 
 # Cadastro pessoa física - professor
-> A tela de cadastro do professor tem campos exclusivos como tipo de usuário professor, código do professor e nível.
+> A tela de cadastro do professor tem campos exclusivos como tipo de usuário, código do professor e nível.
 ![cadastro-professor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/cb6b93f7-cb65-4757-beaf-b5cd6967ef12)
 
 # Editar professor
@@ -23,7 +23,7 @@
 ![editar-professor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/41282b1e-9c30-479b-b8a9-d0bc278afe72)
 
 # Cadastro fornecedor
-> No cadastro de fornecedor há informações exclusivas para pessoa jurídica como CNPJ, razão social e tipo de usuário fornecedor.
+> No cadastro de fornecedor há informações exclusivas para pessoa jurídica como CNPJ, razão social e tipo de usuário.
 ![cadastro-fornecedor](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/8c7b765b-4f0e-4da7-8a85-d567b05995fa)
 
 # Editar fornecedor
@@ -47,7 +47,7 @@
 ![portal-aluno-matricula](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/f12bd43c-8bc7-48a7-8b60-eda1f4da532a)
 
 # Portal do aluno - financeiro
-> É possível visualizar as informações financeiras referente a pagamento da mensalidade do curso, chave de acesso, emissão, vencimento e se está pendento ou pago.
+> É possível visualizar as informações financeiras referente a pagamento da mensalidade do curso, chave de acesso, emissão, vencimento e se está pendente ou pago.
 ![portal-aluno-financeiro](https://github.com/david-duartep/Projeto-Integrador-Grupo-38/assets/160237872/2c08fd24-9e35-4e6a-93bc-4642f15bd6be)
 
 # Portal do professor - registrar notas e frequências
