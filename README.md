@@ -1,4 +1,4 @@
-#Projeto Integrador do Grupo 38
+# Projeto Integrador do Grupo 38
 Repositório destinado ao Projeto Integrador III do Senac. O grupo contém os seguintes integrantes:
 
 - André Marcondes Gohn
@@ -7,7 +7,7 @@ Repositório destinado ao Projeto Integrador III do Senac. O grupo contém os se
 - Gabriel Guilherme dos Santos Almeida
 - Hilton Cesar Silva de Paula
 
-##Desscrição / Objetivo
+## Desscrição / Objetivo
 O projeto consiste em desenvolver e apresentar os protótipos da interface de um sistema voltado à gestão de dados de um centro universitário.
 
 
