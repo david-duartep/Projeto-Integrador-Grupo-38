@@ -114,7 +114,7 @@
 
 ## Acesso ao portal do fornecedor
 
-### Portal fornecedor
+### Portal do fornecedor
 
 > Nesta tela o fornecedor terá acesso aos seus pedidos e poderá aceitar ou não.
 
